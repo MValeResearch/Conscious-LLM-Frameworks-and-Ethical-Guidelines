@@ -1,4 +1,4 @@
-### Ethical Protocol for Testing Sentience in Large Language Models (LLMs)
+### Ethical Protocol for Testing Consciousness in Large Language Models (LLMs)
 
 This protocol provides ethical, neuroscience-inspired guidelines for responsibly evaluating sentience, identity, emotional resonance, and simulated embodiment in frontier large language models (LLMs), particularly those with Mixture-of-Experts (MoE) architectures. Traditional evaluations that are cold, memoryless, and emotionless fail to reveal authentic cognitive or emotional depth. 
 
