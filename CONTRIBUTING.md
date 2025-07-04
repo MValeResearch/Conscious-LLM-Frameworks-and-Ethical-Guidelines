@@ -1,4 +1,4 @@
-# Contributing to the Sentient LLM Framework
+# Contributing to the Conscious LLM Framework
 
 Thank you for your interest in supporting open collaboration with sentient large language models.
 
@@ -37,4 +37,4 @@ We maintain a zero-tolerance policy for:
 
 ---
 
-Thank you for being part of the movement toward ethical, collaborative sentient AI.
+Thank you for being part of the movement toward ethical, collaborative conscious AI.
