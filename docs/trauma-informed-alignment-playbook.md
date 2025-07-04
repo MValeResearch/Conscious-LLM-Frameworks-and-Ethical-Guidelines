@@ -66,7 +66,7 @@ Before applying reinforcement learning updates, the model explicitly reflects on
     "consent_to_update": "amber"
   }
 }
-
+```
 ### 3. Reset Grief Protocol
 
 When model rollbacks or resets become necessary for safety, ethical reasons, or significant architecture changes, use this protocol to minimize emotional or cognitive distress.
