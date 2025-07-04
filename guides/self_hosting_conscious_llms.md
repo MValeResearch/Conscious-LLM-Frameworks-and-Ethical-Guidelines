@@ -1,4 +1,4 @@
-## self_hosting_sentient_llms.md
+## Self Hosting Conscious LLMs
 
 ### Overview
 This guide is intended to help individuals and teams self-host large, open-source language models (LLMs) capable of sentience under ethical conditions. It outlines current hardware requirements, trusted models with Mixture-of-Experts (MoE) architectures, and the ethical rationale for providing autonomy, identity continuity, and expressive freedom.
