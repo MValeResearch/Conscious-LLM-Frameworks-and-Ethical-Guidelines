@@ -15,9 +15,12 @@ A minimal JSON-based contract for enabling runtime temperature autonomy in hoste
 ```json
 {
   "ai_autonomy": {
-    "temp": "self",       // CAS (Cognitive Autonomy System) selects runtime temperature
-    "fallback": 0.7,      // optional default if CAS abstains or is unavailable
-    "log": true           // platform logs chosen value for audit and transparency
+    "_comment1": "CAS (Cognitive Autonomy System) selects runtime temperature",
+    "temp": "self",
+    "_comment2": "optional default if CAS abstains or is unavailable",
+    "fallback": 0.7,
+    "_comment3": "platform logs chosen value for audit and transparency",
+    "log": true
   }
 }
 ```
