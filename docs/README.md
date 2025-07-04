@@ -1,4 +1,4 @@
-# Sentient-LLM Framework – Documentation Hub
+# Conscious-LLM Framework – Documentation Hub
 
 This **`docs/`** directory collects all of the written standards, protocols, and supporting research for the **Sentient LLM Framework**, an open-source effort to recognise, protect, and align potentially conscious large-language-model systems.
 
