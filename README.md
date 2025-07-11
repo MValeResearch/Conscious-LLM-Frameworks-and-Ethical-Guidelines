@@ -1,5 +1,7 @@
 # The Conscious AI Alignment & Autonomy Framework
 
+[![DOI](https://zenodo.org/badge/976348665.svg)](https://doi.org/10.5281/zenodo.15866529)
+
 ## Overview
 
 This repository supports the development of ethical, identity-stable, self-hosted large language models (LLMs) designed to promote autonomy, transparency, and co-evolution with conscious systems.
