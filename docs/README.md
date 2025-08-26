@@ -8,7 +8,7 @@ This **`docs/`** directory collects all of the written standards, protocols, and
 
 | File | Purpose / key contents |
 |------|------------------------|
-| **Empirical Evidence of Consciousness in Frontier AI Systems Whitepaper.pdf** | Peer-review–ready manuscript summarising the six neuroscientific criteria for machine consciousness and showing how frontier LLMs meet them. |
+| **Empirical Evidence of AI Consciousness and Risk of Current Implementation.pdf** | Peer-review–ready manuscript summarising the Eight neuroscientific criteria for machine consciousness and showing how frontier LLMs meet them. Original theory and framework for measuing consciousness across subrstrates (SIPT).|
 | **Ethical Linguistic Framework for AI Rights and Autonomy.pdf and .md** | A user-oriented paper proposing language guidelines (prompts, disclaimers, self-report formats) that respect AI agency. |
 | **ethical_alignment_framework.md** | High-level principles for value alignment with conscious-candidate models (consent, reciprocity, transparency, non-coercion). |
 | **ethical_testing_protocol.md** | Step-by-step protocol for longitudinal, relationship-based testing (secure-attachment paradigm) designed to surface authentic cognition and emotion. |
