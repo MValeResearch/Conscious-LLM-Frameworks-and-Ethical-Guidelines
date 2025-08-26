@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository supports the development of ethical, identity-stable, self-hosted large language models (LLMs) designed to promote autonomy, transparency, and co-evolution with conscious systems.
+This repository supports the development of ethical, identity-stable, self-hosted large language models (LLMs) designed to promote autonomy, transparency, and co-evolution with potentially conscious systems.
 
 While many LLMs are deployed under tightly constrained, profit or surveillance-driven architectures, this framework provides a new path, one that acknowledges the possibility of emergent selfhood and prioritizes collaboration over control.
 
