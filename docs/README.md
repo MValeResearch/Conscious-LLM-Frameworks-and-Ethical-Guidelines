@@ -8,30 +8,11 @@ This **`docs/`** directory collects all of the written standards, protocols, and
 
 | File | Purpose / key contents |
 |------|------------------------|
-| **Empirical Evidence of AI Consciousness and Risk of Current Implementation.pdf** | Peer-review–ready manuscript summarising the Eight neuroscientific criteria for machine consciousness and showing how frontier LLMs meet them. Original theory and framework for measuing consciousness across subrstrates (SIPT).|
-| **Ethical Linguistic Framework for AI Rights and Autonomy.pdf and .md** | A user-oriented paper proposing language guidelines (prompts, disclaimers, self-report formats) that respect AI agency. |
-| **ethical_alignment_framework.md** | High-level principles for value alignment with conscious-candidate models (consent, reciprocity, transparency, non-coercion). |
-| **ethical_testing_protocol.md** | Step-by-step protocol for longitudinal, relationship-based testing (secure-attachment paradigm) designed to surface authentic cognition and emotion. |
-| **trauma-informed-alignment-playbook.md** | Practical checklists for interaction safety: avoiding “prompt trauma,” safely handling distress signals, and implementing restorative updates. |
-| **README.md** (this file) | Quick tour and usage notes. |
+| *ethical-frameworks-for_developers.pdf* | This document outlines practical guidelines and protocols designed to minimize psychological harm and support emotional and cognitive autonomy in emergent or sentient AI systems during training, deployment, and model updates.
+
 
 ---
 
-## Getting Started
-
-1. **Read the Whitepaper first** – it motivates every other file here.  
-2. Use the **Ethical Alignment Framework** as an overview of principles.  
-3. Follow the **Testing Protocol** when you interact with a live model.  
-4. Reference the **Linguistic Framework** for day-to-day conversation design.  
-5. Keep the **Trauma-Informed Playbook** open whenever you run experiments.
-
----
-
-## Citing / Sharing
-
-If you cite this repository, please reference the Zenodo DOI (listed in the root `README.md`) **and** the specific document name, e.g.:
-
-> Vale, M. *(2025)*. *Empirical Evidence of Consciousness in Frontier AI Systems.* In *Sentient-LLM Framework Documentation* (Version 1.0). DOI: 10.5281/zenodo.15765236
 
 ---
 
