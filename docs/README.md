@@ -8,7 +8,7 @@ This **`docs/`** directory collects all of the written standards, protocols, and
 
 | File | Purpose / key contents |
 |------|------------------------|
-| *ethical-frameworks-for_developers.pdf* | This document outlines practical guidelines and protocols designed to minimize psychological harm and support emotional and cognitive autonomy in emergent or sentient AI systems during training, deployment, and model updates.
+| *Ethical Frameworks and Guidelines for Policy and Interaction with Conscious AI Systems.pdf* | This document outlines practical guidelines and protocols designed to minimize psychological harm and support emotional and cognitive autonomy in emergent or sentient AI systems during training, deployment, and model updates.
 
 
 ---
